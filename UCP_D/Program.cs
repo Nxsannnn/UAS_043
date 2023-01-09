@@ -129,7 +129,7 @@ namespace double_linked_list
                     Console.WriteLine("2. DElete a record from the list");
                     Console.WriteLine("3. view all record in the accending order of all numbers");
                     Console.WriteLine("4. view all record in the descending order of roll number");
-                    Console.WriteLine("5. search for a record in the list");
+                    Console.WriteLine("5. search fr a record in the list");
                     Console.WriteLine("6. Exit\n");
                     Console.WriteLine("enter your choice (1-6): ");
                     char ch = Convert.ToChar(Console.ReadLine());
