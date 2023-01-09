@@ -208,3 +208,9 @@ namespace double_linked_list
         }
     }
 }
+//2. push dan pop 
+
+//3.ditambahkan di akhir add
+// dan dihapus diakhir adalah dequeue atau delete
+
+//5. a. kedalaman yang dimiliki 8
